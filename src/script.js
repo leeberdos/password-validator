@@ -1,4 +1,4 @@
-let passwordInput = document.getElementById("password") //instead of having to put .value in every line of this code that references passwordInput you could just add.value to the end of this line and therefore the variable already has it built in
+let passwordInput = document.getElementById("password") 
 
 function checkCorrectPassword() {
 
